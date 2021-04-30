@@ -7,6 +7,7 @@
 - [Tags with amplify init command](#tags-with-amplify-init-command)
 
 ## Tags with amplify init command
+> This is working for amplify 4.50.0
 
 Running `amplify init` command on a brand-new project will create three AWS resources:
 - Two AWS Roles - authrole and unauthrole
