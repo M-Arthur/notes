@@ -1,0 +1,17 @@
+{
+  "projectName": "<Project Name>",
+  "version": "3.1",
+  "frontend": "<Front End Language such as javascript>",
+  "javascript": {
+    "framework": "<Framework such as react>",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "build",
+      "BuildCommand": "npm run-script build",
+      "StartCommand": "npm run-script start"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
